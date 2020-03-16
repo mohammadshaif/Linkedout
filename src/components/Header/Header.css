@@ -1,0 +1,12 @@
+.header img{
+    height: 80px;
+}
+.header{
+    text-align: center;
+    border-bottom: 1px solid lightgray;
+}
+.header p{
+    font-size: 30px;
+    color: lightslategray;
+    font-weight: 100;
+}
